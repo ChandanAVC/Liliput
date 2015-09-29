@@ -1,0 +1,29 @@
+As per the task we built a Forum from the scratch using php .
+Forum is basically a discussion platform where anyone can start there discussion within a category and te questions in the category are considered to be threads . 
+And the replies keeps on adding as threads. 
+We have some of the categories to start with.
+In each of these categories ,an user can add his own topic and can ask for queries and can get instant replies !
+We have a registration process for our forum using captcha and formal email verification process!
+Captcha , as u all know that hackers will be waiting to fill your Database with random contents by scripting , so inorder to avoid that we have interoduced captcha!
+A user can register with a faka mail id to trouble anyone!
+So we built a email verification procedure to serve our forum users better!
+
+Every topic dont need a discussion , so we build a form for submission of blog posts! Where people can get to know about the various topics they are interested in nd they can evn contribute for this with their 
+posts!
+
+
+Every registered user have their personalised user profile giving details about them!with profile picture ,status and personal info!
+
+We even have a Image and a Video Gallery ! where in Image gallery users can upload the pics and display it to all users on the forum.
+We even have a video gallery ! where we are saving server space by linking it to youtube's video!
+Where they just need to put up the Embed link of Youtube's video.
+
+You can have a page to list the number of users of the forum.
+
+You can have a private chat ,where you can text an user into his inbox. 
+
+You can get an opyion to take login to our forum via Facebook and Twitter.
+
+We even have an option to share each post onto many social sites,almost 300.
+
+You can even share the post on Whatsapp, Facebook and many more sites.
